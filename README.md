@@ -19,7 +19,7 @@ To install this tool, you have two options: **global installation** or **using `
 ### **Global Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/forge-cleanup.git
+   git clone https://github.com/farouk-hamisu/forge-cleanup.git
    cd forge-cleanup
 ### Install the package globally:
  ```bash
